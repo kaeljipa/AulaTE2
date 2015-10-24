@@ -1,0 +1,2 @@
+# AulaTE2
+# TESTANDO SMARTGIT
